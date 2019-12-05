@@ -6,5 +6,7 @@ The superformula is a generalization of the superellipse and was proposed by Joh
 
 In polar coordinates, with  r the radius and ỿ the angle, the superformula is:
 ![Image description](http://paulbourke.net/geometry/supershape/equation1.gif)
+
+
 By choosing different values for the parameters a, b, m, n1, n2, n3 different shapes can be generated.
 
