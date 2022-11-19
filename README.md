@@ -9,4 +9,5 @@ In polar coordinates, with  r the radius and ø the angle, the superformula is:
 
 
 By choosing different values for the parameters a, b, m, n1, n2, n3 different shapes can be generated.
+![](https://github.com/kickereb/SuperFormula/blob/master/SuperFormula.gif)
 
